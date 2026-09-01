@@ -7,6 +7,6 @@ A custom Telegram bot designed to list lectures.
 * **Automated Responses:** Handles user inputs and responds dynamically.
 
 ##  Built With
-* **Python** (or Node.js / your programming language)
-* **python-telegram-bot** (or your preferred Telegram wrapper library)
+* **Python** 
+* **python-telegram-bot** 
 * **MySQL
