@@ -9,4 +9,4 @@ A custom Telegram bot designed to list lectures.
 ##  Built With
 * **Python** 
 * **python-telegram-bot** 
-* **MySQL
+* **MySQL**
